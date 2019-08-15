@@ -1,8 +1,11 @@
 
 # [Break The Walls Down](https://www.youtube.com/watch?v=oSouAbKOXMg)
+Pro-tip: Click on the name of the game for more effect.
 
-#### Using the Azure Pipeline:
-![alt](https://avatars2.githubusercontent.com/ml/1303?s=140&v=4)
+Imagine the apocalypse is upon us and we are reduced to just snakes. All we can do is survive by collecting resources and getting rid of each other. Survival of the fittest indeed. The objective is simple: make 'em and break 'em. And do what you have to do, to survive.
+
+#### Using the Azure Pipeline
+<img src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4" width="10%">
 
 
 ### Meet the Team

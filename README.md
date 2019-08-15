@@ -1,6 +1,5 @@
 
-# [Break The Walls Down](https://www.youtube.com/watch?v=oSouAbKOXMg)
-Pro-tip: Click on the name of the game for more effect.
+# [WALL BRAWL]
 
 Imagine the apocalypse is upon us and we are reduced to just snakes. All we can do is survive by collecting resources and getting rid of each other. Survival of the fittest indeed. The objective is simple: make 'em and break 'em. And do what you have to do, to survive.
 

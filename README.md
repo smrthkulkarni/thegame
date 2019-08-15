@@ -3,8 +3,38 @@
 
 Imagine the apocalypse is upon us and we are reduced to just snakes. All we can do is survive by collecting resources and getting rid of each other. Survival of the fittest indeed. The objective is simple: make 'em and break 'em. And do what you have to do, to survive.
 
-#### Using the Azure Pipeline
-<img src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4" width="10%">
+# Issue Tracking
+
+### Using the issue tracker 💡
+
+The issue tracker is the preferred channel for bug reports and features requests. 
+
+### Issues and labels 🏷
+
+The bug tracker utilize recast AI to label issues as bugs/questions/enhancement based on the title of the issue to help organize and identify issues.
+
+### Guidelines for bug reports 🐛
+
+Use the GitHub issue search — check if the issue has already been reported and labelled.
+
+
+# Build Status
+
+
++ ***Security*** - [![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
+
++ **Continuous Integration** - [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
+
++ **Test/Code Coverage** - [![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000)](https://codecov.io/github/dwyl/hapi-auth-jwt2?branch=master)
+
+# Technologies
+
+####  <img src="https://nodejs.org/static/images/logo.svg" width="10%"> <img src="https://avatars2.githubusercontent.com/u/1530371?s=200&v=4" width="10%">  <img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1483519612/hwuqukqg3vpok2arsjmt.png" width="10%">
+
+
+#### Using the Azure Pipeline:  <img src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4" width="10%">
+
+Azure Pipelines is a cloud service automatically builds and tests project and makes it available to other users.
 
 
 ### Meet the Team

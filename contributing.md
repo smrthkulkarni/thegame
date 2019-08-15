@@ -11,10 +11,9 @@ The following steps should be carried out as part of contributing to this reposi
 Submit PR's with the following guidelines in mind:
 
 * **Functionally Correct:** 
-* Code should be fully **unit-tested**, with an eye toward preventing bugs--not just toward upping code coverage.
-	* Code should be **tested end-to-end** at least once.
-	* Consider common bugs like null reference exceptions and edge cases.
-	* You are your own QA department.
+* **Two Approvals Required:**  Atleast two approvals are required for the PR to be merged.
+* Code approvals should be from developers who have not contributed towards the task (even when the person hasn't actually written the code).
+* Code should be fully **unit-tested**, with an eye toward preventing bugs--not just toward upping code coverage. Code should be **tested end-to-end** at least once.
 * **Acceptance Tests:**  Attach acceptance test evidence or instructions to the pull request.  This could take the form of sample output or screenshots, for example.
 * **Small and Focused:**  Small, focused PR's are easier to understand and review, and issues are more likely to be spotted quickly.
-* **Expect Changes:**  Expect at least one round of changes based on code review feedback.  It is rare that a pull request goes through immediately.
+* **Expect Changes:**  Expect at based on code review feedback. We want thorough feedback on every code which gets through to master.

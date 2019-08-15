@@ -28,13 +28,10 @@ Use the GitHub issue search — check if the issue has already been reported and
 + **Test/Code Coverage** - [![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000)](https://codecov.io/github/dwyl/hapi-auth-jwt2?branch=master)
 
 # Technologies
+<img src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4" width="10%"> <img src="https://nodejs.org/static/images/logo.svg" width="10%"> <img src="https://avatars2.githubusercontent.com/u/1530371?s=200&v=4" width="10%">  <img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1483519612/hwuqukqg3vpok2arsjmt.png" width="10%">
 
-####  <img src="https://nodejs.org/static/images/logo.svg" width="10%"> <img src="https://avatars2.githubusercontent.com/u/1530371?s=200&v=4" width="10%">  <img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1483519612/hwuqukqg3vpok2arsjmt.png" width="10%">
 
-
-#### Using the Azure Pipeline:  <img src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4" width="10%">
-
-Azure Pipelines is a cloud service automatically builds and tests project and makes it available to other users.
+Azure Pipelines is a cloud service automatically builds and tests project and makes it available to other users. See our pipeline [here](https://dev.azure.com/sakulkarni0739/sakulkarni/_build?definitionId=2).
 
 
 ### Meet the Team
